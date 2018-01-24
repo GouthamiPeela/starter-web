@@ -15,3 +15,7 @@ Purpose is to provide simple examples
 Deployment can be done on any web server or even local system
 
 ##How To Contribute
+
+###Copyright
+
+2018 Git.Training.
