@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gouthami Peela	gowthami.peela@wipro.com
 
 # THANKS
 
